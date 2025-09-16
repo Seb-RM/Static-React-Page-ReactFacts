@@ -179,7 +179,7 @@ react-facts/
 1. **Clonar el Repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/react-facts.git
+   git clone https://github.com/Seb-RM/Static-React-Page-ReactFacts.git
    cd react-facts
    ```
 

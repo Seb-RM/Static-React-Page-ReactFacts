@@ -2,9 +2,13 @@
 
 Una aplicación simple y elegante de React que muestra datos curiosos sobre React, construida como una página estática para demostrar conceptos fundamentales de React y arquitectura basada en componentes.
 
-📸 Vista Previa
+## 📸 Vista Previa
 
-
+<div align="center" width="">
+  
+![App Screenshot](/public/Captura-ReactFacts.png)
+  
+</div>
 
 ## 📋 Descripción
 
@@ -156,6 +160,7 @@ react-facts/
 ├── package.json
 └── README.md
 ```
+
 ## 📖 Cómo Usar
 
 1. **Ver los Datos**: La aplicación muestra una lista curada de datos interesantes sobre React al cargar.

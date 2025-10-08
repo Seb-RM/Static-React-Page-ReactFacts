@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/Data-Driven-Page-Travel_Journal/",
+  base: "/Static-React-Page-ReactFacts/",
   plugins: [react()],
 });
